@@ -1,0 +1,14 @@
+/home/pc-arthur-123456/meuApp/bin/Debug/net8.0/meuApp
+/home/pc-arthur-123456/meuApp/bin/Debug/net8.0/meuApp.deps.json
+/home/pc-arthur-123456/meuApp/bin/Debug/net8.0/meuApp.runtimeconfig.json
+/home/pc-arthur-123456/meuApp/bin/Debug/net8.0/meuApp.dll
+/home/pc-arthur-123456/meuApp/bin/Debug/net8.0/meuApp.pdb
+/home/pc-arthur-123456/meuApp/obj/Debug/net8.0/meuApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/pc-arthur-123456/meuApp/obj/Debug/net8.0/meuApp.AssemblyInfoInputs.cache
+/home/pc-arthur-123456/meuApp/obj/Debug/net8.0/meuApp.AssemblyInfo.cs
+/home/pc-arthur-123456/meuApp/obj/Debug/net8.0/meuApp.csproj.CoreCompileInputs.cache
+/home/pc-arthur-123456/meuApp/obj/Debug/net8.0/meuApp.dll
+/home/pc-arthur-123456/meuApp/obj/Debug/net8.0/refint/meuApp.dll
+/home/pc-arthur-123456/meuApp/obj/Debug/net8.0/meuApp.pdb
+/home/pc-arthur-123456/meuApp/obj/Debug/net8.0/meuApp.genruntimeconfig.cache
+/home/pc-arthur-123456/meuApp/obj/Debug/net8.0/ref/meuApp.dll
